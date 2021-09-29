@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "gamboy45"
-description              : "An amazing website."
+title                    : "Dylan's Journey"
+title_separator          : "|"
+subtitle                 : "Good things will happen in the end :)"
+name                     : "Dylan HyoungSeung Lee"
+description              : "Not only limited to portfolio, this is my record of programmer's Life"
 url                      : "https://gamboy45.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dylan HyoungSeung Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Versatile musician, or Just a geek"
+  location         : "Seoul, South Korea"
+  email            : "gamboy31@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
