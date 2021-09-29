@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dylan's Journey"
+title                    : #"Dylan's Journey"
 title_separator          : "|"
-subtitle                 : "Good things will happen in the end :)"
+subtitle                 : "Little collection of my geek projects"
 name                     : "Dylan HyoungSeung Lee"
 description              : "Not only limited to portfolio, this is my record of programmer's Life"
 url                      : "https://gamboy45.github.io"
@@ -101,52 +101,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dylan HyoungSeung Lee"
+  name             : "HyoungSeung Lee"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Some may call me Versatile Musician. Some may call me a Geek. I have many identities. Right now, I am pursuiting my dream to be a professional Geek"
+  bio              : "I have many identities. Right now, I am pursuiting my dream to be a professional Geek"
   location         : "Seoul, South Korea"
-  email            : "gamboy31@naver.com"
+  #email            : "gamboy31@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "mailto:gamboy45@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/hyoungseung.lee.5/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/gamboy45"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/hyoungseung.lee.5/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/gamboy45"
+
 
 
 # Reading Files
@@ -288,4 +268,4 @@ defaults:
       share: true
       related: true
       show_date: true
-
+    
