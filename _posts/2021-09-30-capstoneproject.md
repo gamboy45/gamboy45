@@ -2,6 +2,8 @@
 layout: single
 title: "I.T Capstone Project"
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # Abstract
@@ -32,23 +34,25 @@ Yes, we had the head professor as our client. Capstone project was meant to have
 
 Below documentations are Team H.A.R.D Core's planning.
 
-#### Goal model
+## Goal Model
 
 ![goal_model_V3](../images/2021-09-30-capstoneproject/goal_model_V3.png)
 
-#### Architecture Design
+## Architecture Design
 
 ![ArchitectureDesign](../images/2021-09-30-capstoneproject/ArchitectureDesign.PNG)
 
-#### Acceptance Testing
+## Acceptance Testing
 
 ![acceptancetestingbefore](../images/2021-09-30-capstoneproject/acceptancetestingbefore.PNG)
 
-# Team H.A.R.D Core's Outcome
+
+
+# Outcome
 
 ​	4 people had individual roles to perform, Hanze on CSS, Robert on Frontend, Alex on presentation and myself on backend. This project definitely gave me a very hard time.
 
-### Backend
+## Backend - My part
 
 ​	With the client wanting to have three teams work on the backend together, fluent communication between three backend developers were necessary. While working on the backend, I had to attend three meetings per week, one for sprint, another for the team, and the last for backend developers. Because three brains were working, different opinions caused troubles. From backend platform to the design, coming to an agreement took a considerable amount of time. 
 
@@ -60,11 +64,38 @@ Below documentations are Team H.A.R.D Core's planning.
 
 ​	After finishing up modelling, my main job was finished. When Robert and Hanze were working on Frontend, I was processing enormous amount of data collected from the client's house. This process included me having to travel to the client's house to take pictures of artifacts, learning about the deployment environment, and having a cup of tea. 
 
-### Final Display
+## Final Display
+
+### Login
+
+![login](../images/2021-09-30-capstoneproject/login.PNG)
+
+​	A user can be an admin or a normal user. If he or she belongs to Leon's family, he or she can have one id.
+
+### User View
 
 ![BackGround](../images/2021-09-30-capstoneproject/BackGround.png)
 
+​	As you can see, Leon Sterling has an artifact page and related artifacts are linked. Moreover, a user can traverse a family using reactive family node displayed on left side.
 
+### Artifact Page
 
+![artifact page](../images/2021-09-30-capstoneproject/artifact page.png)
 
+### Search People & Artifact
 
+![searchpeople](../images/2021-09-30-capstoneproject/searchpeople.png)
+
+![sesarchartifact](../images/2021-09-30-capstoneproject/sesarchartifact.png)
+
+## After Presentation
+
+​	The project was a success. Leon Sterling was satisfied with what we have established. Last thing needed to do was the deployment. Because the server was Linux and mine was Windows, there were few compatibility issues. Data export was not smooth and the migration did not go well in due time. However, the front end migration was successful and was able to fix data export with manual labour. ***artifacts.leonsterling.com*** was our established site, but it is not available anymore as Leon decided to shut down the server. 
+
+​	Because we follow the project management procedure, there were after steps to do such as evaluation of acceptance testing.
+
+![acceptancetestingafter](../images/2021-09-30-capstoneproject/acceptancetestingafter.PNG)
+
+# So...
+
+​	This capstone project was the outside-of -school experience thanks to Leon Sterling. My experience differs from others that we followed procedures strictly and communicated with the client cohesively.
