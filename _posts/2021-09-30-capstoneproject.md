@@ -26,6 +26,24 @@ Yes, we had the head professor as our client. Capstone project was meant to have
 
 
 
+# Planning Process
+
+​	Strictly following the procedure of Project Management, the team had weekly meetings, 4 sprints with an assigned advisor, and the final presentation. 
+
+Below documentations are Team H.A.R.D Core's planning.
+
+#### Goal model
+
+![goal_model_V3](../images/2021-09-30-capstoneproject/goal_model_V3.png)
+
+#### Architecture Design
+
+![ArchitectureDesign](../images/2021-09-30-capstoneproject/ArchitectureDesign.PNG)
+
+#### Acceptance Testing
+
+![acceptancetestingbefore](../images/2021-09-30-capstoneproject/acceptancetestingbefore.PNG)
+
 # Team H.A.R.D Core's Outcome
 
 ​	4 people had individual roles to perform, Hanze on CSS, Robert on Frontend, Alex on presentation and myself on backend. This project definitely gave me a very hard time.
@@ -34,11 +52,17 @@ Yes, we had the head professor as our client. Capstone project was meant to have
 
 ​	With the client wanting to have three teams work on the backend together, fluent communication between three backend developers were necessary. While working on the backend, I had to attend three meetings per week, one for sprint, another for the team, and the last for backend developers. Because three brains were working, different opinions caused troubles. From backend platform to the design, coming to an agreement took a considerable amount of time. 
 
-​	First agreement was made to use Amazon S3 for the backend because of its easiness with deployment. However, the client rejected that proposal and insisted on using SQL Workbench for database. Thus, backend developers remodelled database to suit the client's request. Picture below is the confirmed version of database model.
+​	First agreement was made to use Amazon S3 for the backend because of its easiness with deployment. However, the client rejected that proposal and insisted on using SQL Workbench for database. Thus, backend developers remodelled database to suit the client's request. 
 
 <img src="../images/2021-09-30-capstoneproject/db.png" alt="db"  />
 
-​	User table exists to support Login system. 
+​	Following table design was used by Team H.A.R.D Core. Two other teams had few variations as they focused on different funtionalities, but teams worked with same base model for later deployment. Our team primarily focused on simplicity, extensibility, and robustness. 
+
+​	After finishing up modelling, my main job was finished. When Robert and Hanze were working on Frontend, I was processing enormous amount of data collected from the client's house. This process included me having to travel to the client's house to take pictures of artifacts, learning about the deployment environment, and having a cup of tea. 
+
+### Final Display
+
+![BackGround](../images/2021-09-30-capstoneproject/BackGround.png)
 
 
 
