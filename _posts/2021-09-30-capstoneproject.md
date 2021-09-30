@@ -98,4 +98,4 @@ Below documentations are Team H.A.R.D Core's planning.
 
 # So...
 
-​	This capstone project was the outside-of -school experience thanks to Leon Sterling. My experience differs from others that we followed procedures strictly and communicated with the client cohesively.
+​	This capstone project was the outside-of -school experience thanks to Leon Sterling. My experience differs from others that we followed procedures strictly and communicated with the client cohesively. If you want to have a look at source code, https://github.com/gamboy45/CAPSTONEPROJECT
