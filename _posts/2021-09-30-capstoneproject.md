@@ -54,7 +54,7 @@ Below documentations are Team H.A.R.D Core's planning.
 
 ## Back end - My part
 
-​	With the client wanting to have three teams work on the back end together, fluent communication between three backend developers was necessary. While working on the back end, I had to attend three meetings per week, one for the sprint, another for the team, and the last for back end developers. Because three brains were working, different opinions caused troubles, and coming to an agreement took a considerable amount of time. If you are interested in the model development process, there will be a dedicated post for that.
+​	With the client wanting to have three teams work on the back end together, fluent communication between three backend developers was necessary. While working on the back end, I had to attend three meetings per week, one for the sprint, another for the team, and the last for back end developers. Because three brains were working, different opinions caused troubles, and coming to an agreement took a considerable amount of time. If you are interested in the model development process, [click here.](https://gamboy45.github.io/capstoneprojectdatabaselog/)
 
 ​	First agreement was made to use Amazon S3 for the back end because of its easiness with the deployment. However, the client rejected that proposal and insisted on using SQL Workbench for the database. Thus, back end developers remodeled the database to suit the client's request. 
 
