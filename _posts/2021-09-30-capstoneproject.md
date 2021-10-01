@@ -60,9 +60,9 @@ Below documentations are Team H.A.R.D Core's planning.
 
 <img src="../images/2021-09-30-capstoneproject/db.png" alt="db"  />
 
-​	Above table design was used by Team H.A.R.D Core. Two other teams had few variations as they focused on different funtionalities, but teams worked with same base model for the later deployment. Our team primarily focused on simplicity, extensibility, and robustness. 
+​	Above table design was used by Team H.A.R.D Core. You can notice a difference between the final version on database log and here because the version on the database log is to support all three teams' purposes while the version here is for our team's use only. Our team primarily focused on simplicity, extensibility, and robustness. 
 
-​	After finishing up modeling and operating the database, my main job was finished. When Robert and Hanze were working on the front end, I was processing enormous amount of data collected from the client's house and starting to prepare for the deployment. This process included me having to travel to the client's house to take pictures of artifacts, learning about the deployment environment, and having a cup of tea. 
+​	After finishing up modeling and operating the database, my main job was finished. While Robert and Hanze were working on the front end, I was processing an enormous amount of data collected from the client's house and starting to prepare for the deployment. This process included me having to travel to the client's house to take pictures of artifacts, learning about the deployment environment, and having a cup of tea. 
 
 ## Final Display
 
