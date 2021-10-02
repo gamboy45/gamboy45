@@ -4,9 +4,7 @@ title: "I.T Capstone Project"
 toc: true
 toc_label: "My Table of Contents"
 toc_icon: "cog"
-author_profile: false
-sidebar: 
-    nav: "docs"
+
 ---
 
 # Abstract
