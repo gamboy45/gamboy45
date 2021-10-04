@@ -1,10 +1,8 @@
 ---
 layout: single
 title: "I.T Capstone Project"
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 
+classes: wide
 ---
 
 # Abstract
@@ -37,7 +35,7 @@ Below documentations are Team H.A.R.D Core's planning.
 
 ## Goal Model
 
-![goal_model_V3](../images/2021-09-30-capstoneproject/goal_model_V3.png)
+<img src="../images/2021-09-30-capstoneproject/goal_model_V3.png" alt="goal_model_V3"  />
 
 ## Architecture Design
 

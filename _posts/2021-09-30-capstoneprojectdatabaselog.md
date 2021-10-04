@@ -1,9 +1,7 @@
 ---
 layout: single
 title: "I.T Project - Database Log"
-author_profile: false
-sidebar: 
-    nav: "docs"
+author_profile: true
 ---
 
 ![page1](../images/2021-09-30-capstoneprojectdatabaselog/page1.PNG)
